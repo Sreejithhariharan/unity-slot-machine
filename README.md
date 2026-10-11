@@ -25,7 +25,7 @@ The WebGL build is in `Build/WebGL`. Browsers won't load it from a file path, so
 ```bash
    python -m http.server 8000
 ```
-4. Open `http://localhost:8000` in Chrome.
+4. Open `https://sreejithhariharan.github.io/unity-slot-machine/` in Chrome.
 5. Click the lever once, since browsers block audio until the page is clicked.
 
 ## Bonus Features
